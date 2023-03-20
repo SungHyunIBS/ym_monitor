@@ -1,5 +1,6 @@
 # Azure VM Server Preparation
 <hr/>
+
 ### New server establish
 * Azure URL : <https://portal.azure.com>
 

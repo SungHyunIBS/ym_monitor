@@ -1,5 +1,6 @@
 # VM Machine Setting
 <hr/>
+
 ### Monitor Server
 IP  : 20.214.182.107
 
@@ -8,6 +9,7 @@ DNS : ymmonitor.koreacentral.cloudapp.azure.com
 * Login with cupadmin & public_key
 
 <hr/>
+
 ## First Login
 * Change password
 
